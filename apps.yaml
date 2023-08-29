@@ -1,0 +1,8 @@
+solarman:
+  module: solarman
+  class: Solarman
+  plugin: HASS
+  hass_namespace: hass
+  ip: ""
+  user: ""
+  password: ""
